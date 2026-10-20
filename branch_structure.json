@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1965-cover-the-failure-paths-of-usestreams",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1965-cover-the-failure-paths-of-usestreams": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1965-cover-the-failure-paths-of-usestreams",
+    "origin"
+  ]
+}
